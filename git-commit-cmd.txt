@@ -1,0 +1,7 @@
+git checkout master-- to change the branch
+git pull-- to get changes from master branch
+
+git checkout your_local_branch
+git merge master-- to apply changes of master to urs
+
+git status-- check all your changes(filenames)
